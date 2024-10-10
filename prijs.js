@@ -1,0 +1,2 @@
+When(clickOnButton)
+multiply(InputEvent)
